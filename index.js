@@ -51,10 +51,10 @@ app.get('/', async (req, res) => {
     printer.println(" ")
     printer.alignCenter();
     printer.bold(true)
-    printer.println("TOTAL MEDIC");
+    printer.println("CENTRO MEDICO MUNDO SALUD");
     printer.bold(false)
-    printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-    printer.println("R.U.C. 20605502823");
+    printer.println("JR. SANTA ROSA 384 CHOTA, CAJAMARCA")
+    printer.println("R.U.C. 10454661465");
     printer.println(printLines());
     printer.println(printLines()); //----------------------------------
     printer.println(`TICKET DE ATENCIÓN`);
