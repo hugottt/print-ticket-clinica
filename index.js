@@ -51,10 +51,10 @@ app.get('/', async (req, res) => {
     printer.println(" ")
     printer.alignCenter();
     printer.bold(true)
-    printer.println("TOTAL MEDIC");
+    printer.println("MUNDO SALUD");
     printer.bold(false)
-    printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-    printer.println("R.U.C. 20605502823");
+    printer.println("JR. SANTA ROSA 384 - CHOTA - CAJAMARCA")
+    printer.println("R.U.C.10454661465");
     printer.println(printLines());
     printer.println(printLines()); //----------------------------------
     printer.println(`TICKET DE ATENCIÓN`);
@@ -184,10 +184,10 @@ app.post('/drugs/', async (req, res) => {
         printer.println(" ")
         printer.alignCenter();
         printer.bold(true)
-        printer.println("TOTAL MEDIC");
+        printer.println("MUNDO SALUD");
         printer.bold(false)
-        printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-        printer.println("R.U.C. 20605502823");
+        printer.println("JR. SANTA ROSA 384 - CHOTA - CAJAMARCA")
+        printer.println("R.U.C.10454661465");
         printer.println(printLines());
         printer.println(printLines()); //----------------------------------
         printer.println(`TICKET DE VENTA`);
@@ -409,10 +409,10 @@ app.post('/laboratory/', async (req, res) => {
         printer.println(" ")
         printer.alignCenter();
         printer.bold(true)
-        printer.println("TOTAL MEDIC");
+        printer.println("MUNDO SALUD");
         printer.bold(false)
-        printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-        printer.println("R.U.C. 20605502823");
+        printer.println("JR. SANTA ROSA 384 - CHOTA - CAJAMARCA")
+        printer.println("R.U.C.10454661465");
         printer.println(printLines());
         printer.println(printLines()); //----------------------------------
         printer.println(`TICKET DE ATENCIÓN`);
@@ -466,10 +466,10 @@ app.post('/laboratory/20612133671/', async (req, res) => { // PEREZ IDROGO RODRI
         printer.println(" ")
         printer.alignCenter();
         printer.bold(true)
-        printer.println("TOTAL MEDIC");
+          printer.println("MUNDO SALUD");
         printer.bold(false)
-        printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-        printer.println("R.U.C. 20605502823");
+        printer.println("JR. SANTA ROSA 384 - CHOTA - CAJAMARCA")
+        printer.println("R.U.C. 10454661465");
         printer.println(printLines());
         printer.println(printLines()); //----------------------------------
         printer.println(`TICKET DE ATENCIÓN`);
@@ -523,10 +523,10 @@ app.post('/laboratory/20605408941/', async (req, res) => { // SOMOS SALUD
         printer.println(" ")
         printer.alignCenter();
         printer.bold(true)
-        printer.println("TOTAL MEDIC");
+        printer.println("MUNDO SALUD");
         printer.bold(false)
-        printer.println("ANTISUYO 1385 - LA VICTORIA - CHICLAYO")
-        printer.println("R.U.C. 20605502823");
+        printer.println("JR. SANTA ROSA 384 - CHOTA - CAJAMARCA")
+        printer.println("R.U.C. 10454661465");
         printer.println(printLines());
         printer.println(printLines()); //----------------------------------
         printer.println(`TICKET DE ATENCIÓN`);
